@@ -70,6 +70,8 @@ Lecture 10 – Memory and search:
 •    Searching and sorting methods
 •    Hashing
 
+
+
 Lecture 11 – Classes: 
 •    Definition of classes
 •    Classes versus instances
@@ -89,3 +91,5 @@ Lecture 13 – Trees:
 Lecture 14 – Summary
 
 Lecture 15 – Research videos
+
+
