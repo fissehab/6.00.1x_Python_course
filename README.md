@@ -1,5 +1,7 @@
 # 6.00.1x
  MITx's Introduction to Computer Science and Programming Using Python
+ 
+ ID verified certificate of achievement is available at https://s3.amazonaws.com/verify.edx.org/downloads/7acef5767cd74e28b07ec112638241d2/Certificate.pdf
 
 List of Lecture Topics
 
